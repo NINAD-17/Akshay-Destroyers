@@ -1,46 +1,78 @@
-# Getting Started with Create React App
+# Local Food Donation Network 🌍🥦
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web-based platform that facilitates the redistribution of surplus food and provides sustainable alternatives for near-expiry or expired items. The platform connects food donors with recipients in need, coordinates deliveries through volunteers, and tracks the overall impact on hunger and waste reduction.
 
-## Available Scripts
+## Key Features
 
-In the project directory, you can run:
+### For Donors
+- List surplus food with details (name, quantity, expiry date, etc.)
+- Mark food as Free or Discounted
+- Track donation status in real-time
 
-### `npm start`
+### For Recipients
+- Browse available food items by type, proximity, and availability
+- Claim specific food items
+- Request pickup or delivery assistance
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### For Volunteers
+- Register to assist with food deliveries
+- View optimized delivery routes
+- Track delivery status
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tech Stack
 
-### `npm test`
+- **Frontend**: React with TypeScript, Tailwind CSS
+- **State Management**: React Context API
+- **Routing**: React Router
+- **Styling**: Tailwind CSS with custom components
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Node.js (14.x or higher)
+- npm or yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/food-donation-network.git
+cd food-donation-network
+```
 
-### `npm run eject`
+2. Install dependencies:
+```
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+3. Start the development server:
+```
+npm start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. The application will be available at `http://localhost:3000`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Usage
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Demo Accounts
 
-## Learn More
+For demonstration purposes, you can use any of these email patterns:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Donor: any email containing "donor" (e.g., donor@example.com)  
+- Recipient: any email containing "recipient" (e.g., recipient@example.com)
+- Volunteer: any email containing "volunteer" (e.g., volunteer@example.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Any password will work with the demo setup.
+
+## Future Enhancements
+
+- Integration with mapping services for delivery route optimization
+- Mobile application for on-the-go access
+- Email and SMS notifications
+- Rating system for donors and recipients
+- Analytics dashboard for tracking impact
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
