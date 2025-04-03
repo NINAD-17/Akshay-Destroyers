@@ -2,6 +2,8 @@
 
 A web-based platform that facilitates the redistribution of surplus food and provides sustainable alternatives for near-expiry or expired items. The platform connects food donors with recipients in need, coordinates deliveries through volunteers, and tracks the overall impact on hunger and waste reduction.
 
+**Vercel Link**: https://akshay-destroyers.vercel.app/
+
 ## Key Features
 
 ### For Donors
