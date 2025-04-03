@@ -65,6 +65,16 @@ For demonstration purposes, you can use any of these email patterns:
 
 Any password will work with the demo setup.
 
+### Snapshots
+![Homepage 1](https://github.com/user-attachments/assets/c8f750b3-67c1-4891-9e5c-6ccf6219a36a)
+![Homepage 2](https://github.com/user-attachments/assets/4cdd56bb-ddb3-485a-a2e6-f2ba6a8f7529)
+![About](https://github.com/user-attachments/assets/4c04afeb-6a02-4f75-b04d-c0e347b10111)
+![Volunteer Dashboard](https://github.com/user-attachments/assets/11e687a2-8d35-41cf-bba9-aea6546bb6db)
+![Register Page](https://github.com/user-attachments/assets/bcd01f2a-cc23-4981-b8e2-edf4aa3c7eba)
+![Recepient Dashboard](https://github.com/user-attachments/assets/7a0cc0b5-28ed-4038-89a2-ac4ff6cc44df)
+![Donar Dashboard](https://github.com/user-attachments/assets/99051ae6-8edd-4342-afcf-12a08043bd77)
+
+
 ## Future Enhancements
 
 - Integration with mapping services for delivery route optimization
