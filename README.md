@@ -1,8 +1,8 @@
 # Local Food Donation Network 🌍🥦
 
-A web-based platform that facilitates the redistribution of surplus food and provides sustainable alternatives for near-expiry or expired items. The platform connects food donors with recipients in need, coordinates deliveries through volunteers, and tracks the overall impact on hunger and waste reduction.
+<h3 align=center>Vercel Link: <a href="https://akshay-destroyers.vercel.app/">https://akshay-destroyers.vercel.app/</a></h3>
 
-**Vercel Link**: https://akshay-destroyers.vercel.app/
+A web-based platform that facilitates the redistribution of surplus food and provides sustainable alternatives for near-expiry or expired items. The platform connects food donors with recipients in need, coordinates deliveries through volunteers, and tracks the overall impact on hunger and waste reduction.
 
 ## Key Features
 
